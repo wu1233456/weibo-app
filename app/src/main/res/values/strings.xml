@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Weibo3</string>
+    <string name="user">请输入账号</string>
+    <string name="password">请输入密码</string>
+    <string name="button_denglu">登录</string>
+    <string name="image1" />
+    <string name="show_response" />
+    <string name="zhuye">个人主页</string>
+    <string name="touxiang" />
+    <string name="xieweibo" />
+    <string name="xie_weibo_button" />
+    <string name="faweibo">发表</string>
+    <string name="fa_weibo">输入内容</string>
+    <string name="weibo_zhengwen">微博正文</string>
+    <string name="jh" />
+    <string name="JH">jh</string>
+    <string name="weibo_neirong">显示微博正文</string>
+    <string name="pinglun_button">评论</string>
+    <string name="weibo_touxiang1" />
+    <string name="zhuye_tubiao" />
+    <string name="geren_zhuye" />
+    <string name="write_weibo" />
+    <string name="weibo_shuliang">0</string>
+    <string name="weibo">微博</string>
+    <string name="guanzhu_shuliang">13</string>
+    <string name="fensi_shuliang">4</string>
+    <string name="gunazhu">关注</string>
+    <string name="fensi">粉丝</string>
+    <string name="个人主页">gerenzhuye</string>
+    <string name="gerenzhuye">个人主页</string>
+    <string name="weibo_toxiang3" />
+    <string name="weibo_liebiao">微博列表</string>
+    <string name="yonghuming">显示用户名</string>
+    <string name="textview">TextView</string>
+</resources>
